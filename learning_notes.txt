@@ -1,0 +1,1 @@
+Git is a version control system used to track changes in files and manage project history. GitHub is an online platform that hosts Git repositories and allows developers to share and collaborate on projects. Git works locally on a computer, while GitHub stores repositories online.
